@@ -1,8 +1,1 @@
-# COMMAND EXECUTED: cmd
-# RESULT:
-STDERR:
-bash: line 1: cmd: command not found
-
-Return code: 127
-
-# READY
+pwd
