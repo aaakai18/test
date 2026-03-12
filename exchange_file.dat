@@ -1,1 +1,8 @@
-C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe c:/Users/Administrator/Desktop/mrh_program/3.11/GitCon_Demo_20260310/test/git_rest.py
+# COMMAND EXECUTED: C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe c:/Users/Administrator/Desktop/mrh_program/3.11/GitCon_Demo_20260310/test/git_rest.py
+# RESULT:
+STDERR:
+bash: line 1: C:UsersAdministratorAppDataLocalProgramsPythonPython39python.exe: command not found
+
+Return code: 127
+
+# READY
