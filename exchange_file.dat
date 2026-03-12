@@ -1,8 +1,1 @@
-# COMMAND EXECUTED: 123456
-# RESULT:
-STDERR:
-bash: line 1: 123456: command not found
-
-Return code: 127
-
-# READY
+ip a
