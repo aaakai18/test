@@ -1,8 +1,3 @@
-# COMMAND EXECUTED: ipconfig
-# RESULT:
-STDERR:
-bash: line 1: ipconfig: command not found
-
-Return code: 127
-
 # READY
+# Git Client Exchange File
+# Waiting for commands...
