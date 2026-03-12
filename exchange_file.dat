@@ -1,1 +1,13 @@
-ls
+# COMMAND EXECUTED: ls
+# RESULT:
+STDOUT:
+api_demo2.txt
+blob
+exchange_file.dat
+git_client.py
+git_operations.py
+main
+__pycache__
+
+
+# READY
