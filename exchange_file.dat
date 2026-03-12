@@ -1,13 +1,1 @@
-# COMMAND EXECUTED: ls -a
-# RESULT:
-STDOUT:
-.
-..
-exchange_file.dat
-.git
-git_client.py
-git_operations.py
-__pycache__
-
-
-# READY
+ifconfig
