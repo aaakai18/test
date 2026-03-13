@@ -1,1 +1,8 @@
-ifconfig
+# COMMAND EXECUTED: ifconfig
+# RESULT:
+STDERR:
+bash: line 1: ifconfig: command not found
+
+Return code: 127
+
+# READY
